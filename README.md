@@ -6,8 +6,12 @@
 
 ### 📊 GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KernelKitten&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KernelKitten&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KernelKitten&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KernelKitten&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub followers](https://img.shields.io/github/followers/KernelKitten?style=for-the-badge&logo=github&color=5834d5)
+![GitHub stars](https://img.shields.io/github/stars/KernelKitten?style=for-the-badge&logo=github&color=5834d5)
 
 <br>
 
