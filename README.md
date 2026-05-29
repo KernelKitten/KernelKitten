@@ -6,10 +6,13 @@
 
 ### 📊 GitHub Stats
 
+<!-- Streak Stats — учитывает приватные контрибьюции после настройки в профиле -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KernelKitten&theme=tokyonight)](https://git.io/streak-stats)
 
+<!-- Activity Graph — автоматически учитывает приватные репозитории -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KernelKitten&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- Эти бейджи — только публичные данные, но они всё равно полезны -->
 ![GitHub followers](https://img.shields.io/github/followers/KernelKitten?style=for-the-badge&logo=github&color=5834d5)
 ![GitHub stars](https://img.shields.io/github/stars/KernelKitten?style=for-the-badge&logo=github&color=5834d5)
 
