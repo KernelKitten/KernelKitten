@@ -6,7 +6,7 @@
 
 ### 📊 GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KernelKitten&show_icons=true&theme=tokyonight&hide_title=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KernelKitten&show_icons=true&theme=tokyonight&hide_title=true&random=123)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KernelKitten&layout=compact&theme=tokyonight)
 
 <br>
