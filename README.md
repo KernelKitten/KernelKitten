@@ -4,6 +4,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=KernelKitten&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KernelKitten&layout=compact&theme=tokyonight)
+
+<br>
+
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks
@@ -18,16 +25,6 @@
 [![Blazor](https://img.shields.io/badge/Blazor-blue?style=for-the-badge&logo=blazor&color=5834d5)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&color=086dd7)](https://docker.com)
 [![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://git-scm.com)
-
----
-
-### 📊 GitHub Activity
-
-> [!NOTE]
-> Ссылки ниже ведут на твою живую историю активности прямо внутри самого GitHub.
-
-* 📈 [**Мои публичные репозитории**](https://github.com/KernelKitten?tab=repositories)
-* 📜 [**История моей активности**](https://github.com/KernelKitten?tab=overview)
 
 ---
 
